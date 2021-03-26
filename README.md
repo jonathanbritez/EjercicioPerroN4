@@ -16,10 +16,12 @@ public class clasePerro {
 
 
 public class perro {
+
     String Nombre;
     String Color;
     String Tamaño;
 //creo el metodo constructor
+
     public perro(String Nom){
 
         this.Nombre = Nom;
